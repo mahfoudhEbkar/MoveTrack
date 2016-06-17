@@ -11,7 +11,7 @@
 <body>
 	<h4>Add Minutes :</h4>
 
-	<form:form commandName="exercise">
+	<form:form commandName ="exercise">
 		<table>
 			<tr>
 				<td>Minutes For Today:</td>
