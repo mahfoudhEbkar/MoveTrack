@@ -4,6 +4,6 @@
 
 
 
-<a href="http://localhost:8080/MoveTrack/greeting.html">go</a>
+<a href="http://localhost:8080/MoveTrack/addMinutes.html">go</a>
 </body>
 </html>
